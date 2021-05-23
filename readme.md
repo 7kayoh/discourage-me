@@ -1,11 +1,14 @@
 # Discourage me!
-
 A funny plugin for Roblox Studio that discourages you rather than encouraging you.
-
 ## Installation
-
-Installation is fairly easy if you happen to know how to use Roblox Studio and Finder/File Explorer. Simply download this [plugin model](https://github.com/va1kio/discourage-me/raw/main/src/Plugin.rbxm)  and drag it into an empty baseplate in Studio, then export the model as a local plugin by right clicking or two fingers tapping while hovering at the model in Explorer.
-
+### Building from source
+To build this plugin from the source code, you need to have an installation of Rojo, which can be achieved with Rojo, Foreman, whatsoever.
+```
+git clone https://github.com/va1kio/discourage-me.git && cd discourage-me && rojo serve
+```
+Connect to Rojo in your Studio, and then export the Plugin folder in ReplicatedStorage as a local plugin.
+### Built binaries
+Head to the releases section of this repository, you will be able to see all variations of built binaries along with its source code
 ## Usage
-
-This repository uses MIT license.
+This repository uses MIT 
+license.

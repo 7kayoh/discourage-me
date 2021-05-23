@@ -1,0 +1,12 @@
+{
+  "name": "discourage-me",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Plugin": {
+        "$path": "src"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Project place file
+/discourage-me.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+.DS_STORE
+/*.DS_STORE
